@@ -1,0 +1,13 @@
+100 0 100 0 100 0 -100 0
+注释：
+    static int x1, y1, x2, y2, x3, y3, x4, y4;
+    fscanf_s(fp, "%d %d %d %d %d %d %d %d", &x1, &y1, &x2, &y2, &x3, &y3, &x4, &y4);//偏置量
+    apt[0].x = x1+cxClient / 3;
+    apt[0].y = y1+2*cyClient / 3;
+    apt[1].x = x2+cxClient / 3;
+    apt[1].y = y2+cyClient / 4;
+    apt[2].x = x3+2*cxClient / 3;
+    apt[2].y = y3+cyClient / 4;
+    apt[3].x = x4+2*cxClient / 3;
+    apt[3].y = y4+2*cyClient / 3;
+    

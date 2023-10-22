@@ -1,0 +1,4 @@
+﻿  Bezel curve.cpp
+C:\C\ItemOfVs\Bezel curve\Bezel curve.cpp(183,15): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+LINK : warning LNK4067: 不明确的入口点；选定“WinMainCRTStartup”
+  Bezel curve.vcxproj -> C:\C\ItemOfVs\Bezel curve\x64\Debug\Bezel curve.exe

@@ -1,0 +1,3 @@
+C:\code\Bezel curve\x64\Debug\Bezel curve.exe
+C:\C\code（VS）\Bezel curve\x64\Debug\Bezel curve.exe
+C:\C\ItemOfVs\Bezel curve\x64\Debug\Bezel curve.exe
